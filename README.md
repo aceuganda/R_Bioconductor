@@ -10,5 +10,4 @@ R programming and Bioconductor
 * Generating graphics in R
 * [Programming with R (Flow control and Functions)](#)
 * Introduction to statistical analysis in R
-* Bioconductor packages and workflows
 * Introduction to R markdown

@@ -1,9 +1,6 @@
 
 ## Working with Vectors
 
-
-## Working with Vectors
-
 1. Consider two numeric vectors `p<-c(2,4,6)` and `q<-c(3,5,7)`. Perform the following operations on `p` and `q`.
     * Add `p` and `q`
     * Subtract `p` from `q`
@@ -29,5 +26,3 @@
     * Use R to count the number of characters in `x`.
     * Extract the word "Bioinformatics" from `x`.
     * Combine `x` and `y` to form the statement "Bioinformatics at Makerere, Semester I 2020".
-
-====================================================== END ============================================================================

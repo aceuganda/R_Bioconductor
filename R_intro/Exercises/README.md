@@ -19,8 +19,8 @@
 4. Given a numeric vector `a<-c(2,8,3,NA,8,13,NA,16,4,2,8,5)`.
     * Use `R` to count the number of missing values in `a`.
     * Create a vector `b` containing non-missing values of `a`.
-    * Create a vector `d` by replace missing values of `a` with 0.
-    * Create a vector `f` by replace missing values with a random selected number from vector `b`.
+    * Create a vector `d` by replacing missing values of `a` with 0.
+    * Create a vector `f` by replacing missing values with a random selected number from vector `b`.
 
 5. Consider two character vectors `x<-"Bioinformatics at Makerere"` and `y<-"Semester I 2020/2021"`.
     * Use R to count the number of characters in `x`.

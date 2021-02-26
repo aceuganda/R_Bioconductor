@@ -11,8 +11,8 @@
 2. Repeat (1) with `p<-c(4,8,5)` and `q<-c(3,2)`. Inspect any warnings or errors and examine how `R` handles arithmetic operations for vectors of different length.
 
 3. Create a vector `x` of even numbers between 3 and 99.
-    * Compute the average, variance, standard deviation, median
-    lower quartile, upper quartile, highest, minimum of `x`.
+    * Compute the average, variance, standard deviation, median,
+    lower quartile, upper quartile, highest and lowest element of `x`.
     * Create a vector `y` with elements of vector `x` sorted in decreasing order. 
     * Create a vector `z` with ranks of elements of vector `x`.
 

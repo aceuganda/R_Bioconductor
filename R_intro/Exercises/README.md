@@ -26,3 +26,23 @@
     * Use R to count the number of characters in `x`.
     * Extract the word "Bioinformatics" from `x`.
     * Combine `x` and `y` to form the statement "Bioinformatics at Makerere, Semester I 2020".
+
+## Working with data frames
+
+For this exercise, we shall use the `HairEyeColor` dataset also available in the R package `datasets` to answer the following questions. The data shows the distribution of hair and eye color and sex in 592 statistics students. Type `?HairEyeColor` on the console to go through the documentation for details about this dataset. You can access it here.
+
+1. Import the dataset, check the structure and obtain a statistical summary of the data.
+
+2. Extract data of each column and assign it to a variable. For each variable, obtain basic statistics and check for agreement/disagreement with results obtained in (1) above.
+
+3. Obtain the number of female students with Black or Red Hair.
+
+4. Obtain the number of male students whose eye color is not Blue.
+
+5. Create a new dataset `df2` by adding a new column called 'average_age' containing random numbers between 15 and 45.
+
+6. Create another dataframe, `df3` consisting of 20 randomly selected rows from the dataframe in `df2`.
+
+7. Change the column name 'Sex' to 'Gender' in `df2`. 
+
+8. Combine dataframes `df2` and `df3` using different merge strategies (such as inner, outer, left, right). Confirm that the dimension of each of the joins is what would be expected. 

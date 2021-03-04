@@ -45,4 +45,4 @@ For this exercise, we shall use the `HairEyeColor` dataset also available in the
 
 7. Change the column name 'Sex' to 'Gender' in `df2`. 
 
-8. Combine dataframes `df2` and `df3` using different merge strategies (such as inner, outer, left, right). Confirm that the dimension of each of the joins is what would be expected. 
+8. Combine dataframes `df2` and `df3` using different merge strategies (such as inner, outer, left, right). Confirm that the dimension of each of the joins is what would be expected. Hint: Consider the `merge` function.

@@ -29,9 +29,9 @@
 
 ## Working with data frames
 
-For this exercise, we shall use the `HairEyeColor` dataset also available in the R package `datasets` to answer the following questions. The data shows the distribution of hair and eye color and sex in 592 statistics students. Type `?HairEyeColor` on the console to go through the documentation for details about this dataset. You can access it here.
+For this exercise, we shall use the `HairEyeColor` dataset also available in the R package `datasets` to answer the following questions. The data shows the distribution of hair and eye color and sex in 592 statistics students. Type `?HairEyeColor` on the console to go through the documentation for details about this dataset. You can access it [here](https://github.com/aceuganda/R_Bioconductor/blob/master/R_intro/Exercises/HairEyeColour.csv).
 
-1. Import the dataset, check the structure and obtain a statistical summary of the data.
+1. Import the dataset into Rstudio, check the structure and obtain a statistical summary of the data.
 
 2. Extract data of each column and assign it to a variable. For each variable, obtain basic statistics and check for agreement/disagreement with results obtained in (1) above.
 

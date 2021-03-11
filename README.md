@@ -7,7 +7,7 @@ R programming and Bioconductor
 * [Introduction to R and package installation](https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html)
 * [Basic R syntax and data types](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
 * Generating data and manipulating objects
-* Generating graphics in R
+* [Generating graphics in R](Graphics)
 * [Programming with R (Flow control and Functions)](#)
 * Introduction to statistical analysis in R
 * Introduction to R markdown

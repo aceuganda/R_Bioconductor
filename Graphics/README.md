@@ -2,7 +2,7 @@
 
 ### ACE Winter Supplementary Bioinformatics Training March, 2021
 
-**Instructor**: Poorani Subramanian, Ph.D.  
+**Instructors**: Poorani Subramanian, Ph.D. & Jingwen Gu, M.S.
 bioinformatics@niaid.nih.gov  
 [BCBB Introductory R materials](https://github.com/niaid/R_Intro)
 
